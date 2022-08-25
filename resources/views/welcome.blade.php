@@ -10,5 +10,8 @@
         <li>
             <a href="/sample01">Sample 01</a>
         </li>
+        <li>
+            <a href="/sample02">Sample 02</a>
+        </li>
     </ul>
 @endsection

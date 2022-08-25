@@ -6,6 +6,7 @@ services:
         image: webdevops/php-apache-dev:8.1
         environment:
             WEB_DOCUMENT_ROOT: /app/public
+            APP_DEBUG: "true"
             DB_CONNECTION: mysql
             DB_HOST: db
             DB_PORT: 3306
